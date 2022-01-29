@@ -16,8 +16,8 @@ This is a note-taking app that gives the user the options to:
 **Read**: Read a particular note by entering the title of the note to be read.
 
 I have used the file system and command-line arguments to make this app work.
-The file system allows us to store the user's note data in JSON format (_notes.json_)
-The command-line arguments allow us to get input from the user. (_Yargs module_)
+The file system allows us to store the user's note data in JSON format (_notes.json_).
+The command-line arguments allow us to get input from the user (_Yargs module_).
 
 ---
 
