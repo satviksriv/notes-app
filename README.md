@@ -21,6 +21,6 @@ The command-line arguments allow us to get input from the user. (_Yargs module_)
 
 ## Concepts used:
 
-File System and Command-line arguments. (Yargs module)
-Storing data in JSON.
-Arrow functions.
+1. File System and Command-line arguments. (Yargs module)
+2. Storing data in JSON.
+3. Arrow functions.
