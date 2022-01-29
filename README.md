@@ -10,7 +10,9 @@ This is a note-taking app that gives the user the options to:
 - Body: The note body.
 
 **Remove**: Remove a particular note by entering the title of the note to be removed.
+
 **List**: List the notes.
+
 **Read**: Read a particular note by entering the title of the note to be read.
 
 I have used the file system and command-line arguments to make this app work.
